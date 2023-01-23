@@ -88,7 +88,7 @@ h1{
 
     position: absolute;
 
-    top:30%;
+    top:50%;
 
     transform-origin: 100%;
 
@@ -111,5 +111,5 @@ h1{
   }
 
   #six{
-    margin-top:-150px;
+    margin-top:150px;
   }
